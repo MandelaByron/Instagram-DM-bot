@@ -35,9 +35,9 @@ driver = webdriver.Remote(
     options=options
 )
 
-password='thisispass'
+password='yourpassword'
 
-email='joykembu@gmail.com'
+email='enteryouremail'
 
 message='Hey, this is DM bot, if interested in one, reply with YES'
 
